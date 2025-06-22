@@ -14,9 +14,11 @@ A simple and responsive web project that demonstrates how to toggle between **li
 ## 📸 Demo
 
 ![Dark Mode Preview](output/screenshot-light.png)
+
 The above screenshot shows light mode.
 
 ![Light Mode Preview](output/screenshot-dark.png)
+
 The above screenshot shows dark mode.
 
 
