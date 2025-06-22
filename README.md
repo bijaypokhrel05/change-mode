@@ -34,7 +34,6 @@ The above screenshot shows dark mode.
 - The `body` element is given a class of either `light-mode` or `dark-mode`
 - The toggle button calls JavaScript to switch these classes
 - CSS handles the different background and text colors for each mode
-- Optional: Use `localStorage` to remember the selected mode between sessions
 
 ## 📦 How to Use
 
